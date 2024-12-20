@@ -1,2 +1,2 @@
 # WholesaleAnalysis
-praktikum PTI
+Analisis Pelanggan Wholesale - Kelompok 1.
