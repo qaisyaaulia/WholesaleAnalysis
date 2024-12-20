@@ -1,0 +1,2 @@
+# WholesaleAnalysis
+praktikum PTI
